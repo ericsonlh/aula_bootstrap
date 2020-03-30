@@ -1,0 +1,36 @@
+
+body{
+    font: 15px Verdana;
+}
+
+.navbar {
+    background-color: #8CD6D4;
+}
+
+.sobre-nós {
+    background-color: #DDFEFD;
+    color: #4F7574;
+    font: 15px Verdana;
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.parceiros{
+    background-color: #52FEFA;
+    color: #4F7574;
+    font: 15px Verdana;
+}
+
+.serviços{
+    background-color: floralwhite;
+    color: #4F7574;
+    font: 15px Verdana;
+}
+
+.bg-footer{
+    background-color: darkslategrey;
+    color: white;
+}
